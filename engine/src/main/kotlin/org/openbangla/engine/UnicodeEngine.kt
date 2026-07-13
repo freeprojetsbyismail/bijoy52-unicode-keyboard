@@ -6,4 +6,8 @@ class UnicodeEngine {
         return "0.1.0"
     }
 
+    fun process(input: String): String {
+        return input
+    }
+
 }
