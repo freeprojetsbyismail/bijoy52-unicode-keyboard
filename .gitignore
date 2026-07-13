@@ -1,0 +1,17 @@
+# Build outputs
+*.jar
+*.class
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# Kotlin
+out/
+
+# Termux temporary
+tmp/
